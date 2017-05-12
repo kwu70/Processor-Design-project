@@ -6,4 +6,4 @@ This ISA handles branch, store, and all form of ADD instruction set.
 
 lg_highlevel.qar is the backup file that can be open using Quartus II to view the entire verilog code.
 
-The Sum.s file contains the Assembly code for testing on the FPGA board.
+The sum.s file contains the Assembly code and the sum.hex contains the hex version; these are used for testing on the FPGA board.
